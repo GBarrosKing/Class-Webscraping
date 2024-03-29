@@ -67,8 +67,7 @@ for i in range(len(course_nums)):
 # in js where each object contained the department of the class
 # and class number.
 
-# Opened file I already created(I just copied what was in the 
-# text file to a java script file in the correct repository).
+# Opened file I already created
 f = open("classes.txt", "a")
 # Initiate the list.
 f.write("const classes = [\n")
